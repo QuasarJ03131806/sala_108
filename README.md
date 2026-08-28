@@ -28,12 +28,13 @@ curso de segurança do trabalho
 | :--- | :--- |
 | **Curso** | Mecatrônica |
 | **Tema** | Robótica em Ambiente de Mecatrônica |
-| **Local / Laboratório** | Sala 108 |
+| **Local / Laboratório** | Sala 102 |
 
 ### 👥 Integrantes da Equipe
 - **Caio Viana**
 - **Jhony Enzo**
 - **Mizael Souto**
+- **ISAC**
 
 ---
 CORPO DA DESCRIÇÃO SOBRE O TRABALHO 
