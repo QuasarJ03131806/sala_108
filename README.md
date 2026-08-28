@@ -15,3 +15,22 @@
 
 curso de segurança do trabalho
 
+
+
+# 🤖 Projeto de Mecatrônica — Aplicações em Robótica
+
+---
+
+| 📋 **Informações Gerais** | 📍 **Detalhes** |
+| :--- | :--- |
+| **Curso** | Mecatrônica |
+| **Tema** | Robótica em Ambiente de Mecatrônica |
+| **Local / Laboratório** | Sala 108 |
+
+### 👥 Integrantes da Equipe
+- **Caio Viana**
+- **Jhony Enzo**
+- **Mizael Souto**
+
+---
+
