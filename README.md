@@ -9,7 +9,7 @@ TIPO DE CABEÇALHO 1
 ## 👥 Equipe do Projeto
 * **nome do integrante**
 * **nome do integrandete**
-* **Mizael Souto**
+* **Thales**
 
 ---
 
