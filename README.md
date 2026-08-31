@@ -1,17 +1,4 @@
-TIPO DE CABEÇALHO 1
-# 🤖 Aplicações de Robótica em Mecatrônica
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Curso-Mecatr%C3%B4nica-0056B3?style=for-the-badge&logo=gear" alt="Curso Mecatrônica">
-  <img src="https://img.shields.io/badge/Local-Sala%20108-28A745?style=for-the-badge" alt="Sala 108">
-</p>
-
-## 👥 Equipe do Projeto
-* **nome do integrante**
-* **nome do integrandete**
-* **Thales**
-
----
 
 TIPO DE CABEÇALHO 2
 
