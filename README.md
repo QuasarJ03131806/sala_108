@@ -1,31 +1,3 @@
-
-
-TIPO DE CABEÇALHO 2
-
-curso de segurança do trabalho
-
-
-
-# 🤖 Projeto de Mecatrônica — Aplicações em Robótica
-
----
-
-| 📋 **Informações Gerais** | 📍 **Detalhes** |
-| :--- | :--- |
-| **Curso** | Mecatrônica |
-| **Tema** | Robótica em Ambiente de Mecatrônica |
-| **Local / Laboratório** | Sala 102 |
-
-### 👥 Integrantes da Equipe
-- **Caio Viana**
-- **Jhony Enzo**
-- **Mizael Souto**
-- **ISAC**
-
----
-CORPO DA DESCRIÇÃO SOBRE O TRABALHO 
-
-
 ## 📌 Sobre o Projeto
 
 Este projeto aborda a aplicação prática da **Robótica em Ambientes Mecatrônicos**, explorando a integração sinérgica entre **engenharia mecânica, eletrônica, controle e computação** para o desenvolvimento de sistemas automatizados de alta precisão, repetibilidade e eficiência.
