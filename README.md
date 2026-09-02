@@ -7,7 +7,7 @@
 | :--- | :--- |
 | **Curso** | Segurança do Trabalho |
 | **Tema** | Equipamentos de Proteção Individual (EPI) — Normas, Seleção e Aplicação Prática |
-| **Local / Laboratório** | Sala 108 |
+| **Local / Laboratório** | Sala 107 |
 
 ### 👥 Integrantes da Equipe
 - **Luara Caroline**
